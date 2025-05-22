@@ -15,7 +15,7 @@ Cloud journey with **Amazon Web Services (AWS)** — the world’s most comprehe
 
 ---
 
-## 🧭 What Can You Do With AWS?
+## What Can You Do With AWS?
 
 - Host websites and applications  
 - Store, process, and analyze data  
@@ -71,7 +71,7 @@ AWS provides a foundation built on **four core service domains**:
 
 AWS operates on a **global infrastructure** for high performance, fault tolerance, and scalability.
 
-### ![AWS Global Architecture](images/aws_global_architecture.png)
+### ![AWS Global Architecture](images/aws_global_architecture.jpg)
 
 ### Components:
 - **Data Centers**: High-speed compute & storage hubs
